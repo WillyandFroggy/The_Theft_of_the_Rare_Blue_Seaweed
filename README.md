@@ -10,9 +10,9 @@ A whale and a frog go on an adventure to stop a group of poachers from illegally
 ## Download instructions:
 
 ### Mobile:
-Click on each of the links above, then click the 3 dots, then click "Download".  
+Click on each of the links above, then click the 3 dots, then click "Download"...  
 ![Mobile download instructions](how_to_download_1.png)
 
 ### Desktop:
-Click "Code", then click "Download ZIP".  
+Click "Code", then click "Download ZIP"...  
 ![Desktop download instructions](how_to_download_2.png)
